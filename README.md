@@ -9,7 +9,7 @@ Hey Everyone Please find all the projects Made in Tableau by me.
 Here is the list of all Projects made in Tableau by me:
 
 [comment]: <> (########################################### Tableau ##############################################) 
-# #####-#####__-Tableau-__#####-#####
+# #####-#####__-TABLEAU-__#####-#####
 
 0020 ----------------- 0020-Tableau-Data-Visualizaion-project-Data-Analyst-Bussiness-Analayst -----------------
 
