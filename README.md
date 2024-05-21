@@ -8,7 +8,8 @@ Hey Everyone Please find all the projects Made in Tableau by me.
 
 Here is the list of all Projects made in Tableau by me:
 
-###########################################  DATA VISUALISATION -- TABLEAU Part - 1 --  ##############################################
+[comment]: <> (########################################### Tableau ##############################################) 
+# #####-#####__-Tableau-__#####-#####
 
 0020 ----------------- 0020-Tableau-Data-Visualizaion-project-Data-Analyst-Bussiness-Analayst -----------------
 
@@ -29,8 +30,6 @@ Here is the list of all Projects made in Tableau by me:
 0028 ----------------- [0028-Tableau-Data-Visualizaion-project--AirBnb-Booking-NYC](https://github.com/PallavShukla971/0028-Tableau-Data-Visualizaion-project--AirBnb-Booking-NYC) ------------------
 
 0029 ----------------- 0029-Tableau-Data-Visualizaion-project--Heart Failure Healthcare -----------------
-
-###########################################  DATA VISUALISATION -- TABLEAU Part - 2 --  ##############################################
 
 0060 -----------------  -----------------
 
