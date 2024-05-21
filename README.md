@@ -31,9 +31,7 @@ Here is the list of all Projects made in Tableau by me:
 
 0029 ----------------- [0029-Tableau-Data-Visualizaion-project--Heart Failure Healthcare](https://github.com/PallavShukla971/0029-Tableau-Data-Visualizaion-project--Heart-Failure-Healthcare) -----------------
 
-0060 -----------------  -----------------
-
-0070 -----------------  -----------------
+0070 ----------------- [0070-TABLEAU-Stock Market Dashboard](https://github.com/PallavShukla971/0070-TABLEAU-Stock-Market-Dashboard) -----------------
 
 0071 -----------------  -----------------
 
