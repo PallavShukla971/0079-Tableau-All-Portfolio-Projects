@@ -11,17 +11,17 @@ Here is the list of all Projects made in Tableau by me:
 [comment]: <> (########################################### Tableau ##############################################) 
 # #####-#####__-TABLEAU-__#####-#####
 
-0020 ----------------- 0020-Tableau-Data-Visualizaion-project-Data-Analyst-Bussiness-Analayst -----------------
+0020 ----------------- [0020-Tableau-Data-Visualizaion-project-Data-Analyst-Bussiness-Analayst](https://github.com/PallavShukla971/0020-Tableau-Data-Visualizaion-UK-Europe-Dataset-for-virus-among-patien) -----------------
 
-0021 ----------------- 0021-Tableau-Data-Visualizaion-project-Emergency-Room-Visit-Data-Analayst -----------------
+0021 ----------------- [0021-Tableau-Data-Visualizaion-project-Emergency-Room-Visit-Data-Analayst](https://github.com/PallavShukla971/0021-Tableau-Data-Visualizaion-project-Emergency-Room-Visit-Data-Analayst) -----------------
 
-0022 ----------------- 0022-Tableau-Data-Visualization-On-NETFLIX-Data -----------------
+0022 ----------------- [0022-Tableau-Data-Visualization-On-NETFLIX-Data](https://github.com/PallavShukla971/0022-Tableau-Data-Visualization-On-NETFLIX-Data) -----------------
 
-0023 ----------------- 0023-Tableau-Data-Visualizaion-project--Ubisoft-Activision-VideoGame-Sales -----------------
+0023 ----------------- [0023-Tableau-Data-Visualizaion-project--Ubisoft-Activision-VideoGame-Sales](https://github.com/PallavShukla971/0023-Tableau-Data-Visualizaion-project--Ubisoft-Activision-VideoGame-Sales) -----------------
 
-0024 ----------------- 0024-Tableau-Data-Visualizaion-project--IBM-HR-Sales-Dashboard  -----------------
+0024 ----------------- [0024-Tableau-Data-Visualizaion-project--IBM-HR-Sales-Dashboard](https://github.com/PallavShukla971/0024-Tableau-Data-Visualizaion-project--IBM-HR-Sales-Dashboard)  -----------------
 
-0025 ----------------- 0025-Tableau-Data-Visualizaion-project--Hotel-Sales-In-Las-Vegas-Dashboard-Trivago-Expedia -----------------
+0025 ----------------- [0025-Tableau-Data-Visualizaion-project--Hotel-Sales-In-Las-Vegas-Dashboard-Trivago-Expedia](https://github.com/PallavShukla971/0025-Tableau-Data-Visualizaion-project--Hotel-Sales-In-Las-Vegas-Dashboard-Trivago-Expedia) -----------------
 
 0026 ----------------- [0026-Tableau-Data-Visualizaion-project--Data-Science-Job-Salaries](https://github.com/PallavShukla971/0026-Tableau-Data-Visualizaion-project--Data-Science-Job-Salaries) -----------------
 
@@ -29,7 +29,7 @@ Here is the list of all Projects made in Tableau by me:
 
 0028 ----------------- [0028-Tableau-Data-Visualizaion-project--AirBnb-Booking-NYC](https://github.com/PallavShukla971/0028-Tableau-Data-Visualizaion-project--AirBnb-Booking-NYC) ------------------
 
-0029 ----------------- 0029-Tableau-Data-Visualizaion-project--Heart Failure Healthcare -----------------
+0029 ----------------- [0029-Tableau-Data-Visualizaion-project--Heart Failure Healthcare](https://github.com/PallavShukla971/0029-Tableau-Data-Visualizaion-project--Heart-Failure-Healthcare) -----------------
 
 0060 -----------------  -----------------
 
