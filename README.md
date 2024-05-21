@@ -4,6 +4,8 @@ Hey Everyone Please find all the projects Made in Tableau by me.
 
 # Projects can be made visible on a Zoom Call
 
+# If you want to Check all projects then click here [-> INDEX FILE <-](https://github.com/PallavShukla971/0000_Index/blob/main/README.md)
+
 Here is the list of all Projects made in Tableau by me:
 
 ###########################################  DATA VISUALISATION -- TABLEAU Part - 1 --  ##############################################
